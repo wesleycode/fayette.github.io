@@ -5,7 +5,7 @@ export function DashboardPage() {
 				<h1 className="text-3xl text-gray-700 font-bold uppercase">
 					Em Breve
 				</h1>
-				<p className="text-gray-500 font-medium">Estamos trabalhando duro para trazer algo incrível!</p>
+				<p className="text-gray-500 font-medium">Algo extraordinário está sendo preparado para você! Em breve, revelaremos uma experiência que vai superar suas expectativas.</p>
 			</div>
 		</div>
 	)
